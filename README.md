@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vedantpathare
-- 👀 I’m interested in electro enginnering things like arudino,eclipse arudino IDE
+- 👀 I’m interested in electro enginnering things like arudino,eclipse arudino IDE,visual studio ,google colab and releted to this
 - 🌱 I’m currently learning coding languages and other stuff releated to IT
 - 📫 How to reach me vedant.pathare7781@gmail.com
 
